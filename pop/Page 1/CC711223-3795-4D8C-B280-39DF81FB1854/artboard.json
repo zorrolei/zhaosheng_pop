@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC711223-3795-4D8C-B280-39DF81FB1854",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 1391,
+    "y": 174
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "448415A3-68F1-4389-94D3-FED656976864"
+    },
+    {
+      "class": "group",
+      "id": "A5752C53-414A-49A5-8758-AB6AB00FB701"
+    },
+    {
+      "class": "bitmap",
+      "id": "D3822674-CA04-4BCD-AFC8-09213D6DAA51"
+    },
+    {
+      "class": "bitmap",
+      "id": "BEBF5072-E762-4712-B5F0-55B63B5C190D"
+    },
+    {
+      "class": "text",
+      "id": "1E945CC6-C8AD-4620-9C8C-B2E13F2F6C6E"
+    },
+    {
+      "class": "bitmap",
+      "id": "771BA826-B9BB-4488-A940-10E6597A4C70"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F2C0E26-BD73-4EAB-81E4-49C65F817F1E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "39F215B9-5BCA-482C-AB1A-D6181E790F4E"
+    }
+  ],
+  "name": "03",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EFEEF245-B77D-4183-9E48-34B1CFBBAD8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 38.80000000000001,
+    "width": 281,
+    "x": 30,
+    "y": 393
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "BD1CFE7D-B1A2-45D1-8615-81A18B77222D"
+    },
+    {
+      "class": "shapePath",
+      "id": "3B8FD916-D1CF-4155-803D-DD4019D4577F"
+    },
+    {
+      "class": "shapePath",
+      "id": "86077D5C-5657-45B2-8CD0-C55C2B1780E9"
+    },
+    {
+      "class": "shapePath",
+      "id": "C9F89B64-0A45-4BFB-BB68-E9CB55EA061B"
+    },
+    {
+      "class": "shapePath",
+      "id": "FCB3FE21-2E29-408A-B464-3611D0CF1AEB"
+    },
+    {
+      "class": "shapePath",
+      "id": "A00A7914-4A58-4390-A23B-AFB4922D3E00"
+    },
+    {
+      "class": "shapePath",
+      "id": "9FEFF193-129F-4E2A-BE9F-B5A71236F2C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "25766A5A-BEFB-4DC9-8F48-C4D54BD80D13"
+    },
+    {
+      "class": "shapePath",
+      "id": "6A28D552-43F9-43BC-A523-BC08B971152B"
+    },
+    {
+      "class": "shapePath",
+      "id": "AA4EAEB8-7437-4E2B-8BC7-F9CA80DD6F2B"
+    },
+    {
+      "class": "shapePath",
+      "id": "7144838A-353E-4810-A456-3BAF6AD484FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "7FED40ED-E4D0-4A94-887D-D731FFFB0156"
+    },
+    {
+      "class": "shapePath",
+      "id": "841BE002-4EB0-4268-B657-3B4855A897E3"
+    },
+    {
+      "class": "shapePath",
+      "id": "6737206F-AD77-4332-99A0-0214BA4B78D9"
+    },
+    {
+      "class": "shapePath",
+      "id": "050A029D-9F36-4148-A6A0-8978DF925E8C"
+    },
+    {
+      "class": "shapePath",
+      "id": "41441047-978C-4D8C-9DF9-337A26B7DB5C"
+    },
+    {
+      "class": "shapePath",
+      "id": "19FFA8CC-ABE5-4D9D-8997-5E3933D74929"
+    },
+    {
+      "class": "shapePath",
+      "id": "30C4EE0E-959D-49C9-8613-AD53A635252D"
+    },
+    {
+      "class": "shapePath",
+      "id": "15AA6D30-CC80-466F-B3EC-7AE5F9D049AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "F28E3D71-FCE0-488D-9402-D5C67C3C0E56"
+    },
+    {
+      "class": "shapePath",
+      "id": "A48AB4E7-DCB0-44D0-821D-133936B53A6D"
+    },
+    {
+      "class": "shapePath",
+      "id": "3FFB257A-78F8-49EF-A02C-DFC36B9C0EE0"
+    },
+    {
+      "class": "shapePath",
+      "id": "B12F695E-0932-4AEA-9506-44D6EA03979D"
+    },
+    {
+      "class": "shapePath",
+      "id": "9CCEB86E-F7E3-46AD-AE94-F7FC411C636F"
+    },
+    {
+      "class": "shapePath",
+      "id": "D3C48CFC-E6D1-4E90-A926-4253AE5BEDC9"
+    },
+    {
+      "class": "shapePath",
+      "id": "F1A38699-46F0-4A6C-B386-3272BC882A2D"
+    }
+  ],
+  "name": "借传媒改变世界",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3843137254901961,
+          "green": 0.5333333333333333,
+          "red": 0.6392156862745098
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.5529411764705883,
+                "green": 0.7254901960784313,
+                "red": 0.8156862745098039
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4235294117647059,
+                "green": 0.5882352941176471,
+                "red": 0.7058823529411765
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}
