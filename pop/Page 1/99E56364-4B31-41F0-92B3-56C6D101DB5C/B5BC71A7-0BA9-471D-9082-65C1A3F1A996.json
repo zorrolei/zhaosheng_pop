@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceHanSansSC-Normal",
+              "name": "PingFangSC-Regular",
               "size": 12
             }
           },
@@ -56,7 +56,7 @@
     "height": 101,
     "width": 238,
     "x": 18,
-    "y": 528
+    "y": 529
   },
   "glyphBounds": "{{0, 4}, {231, 72}}",
   "hasClippingMask": false,
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceHanSansSC-Normal",
+            "name": "PingFangSC-Regular",
             "size": 12
           }
         },

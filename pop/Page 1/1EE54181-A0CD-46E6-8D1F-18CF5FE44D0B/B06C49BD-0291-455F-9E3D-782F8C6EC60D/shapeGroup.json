@@ -17,8 +17,8 @@
     "constrainProportions": true,
     "height": 38.12,
     "width": 239.1199999463558,
-    "x": 29.99999999999991,
-    "y": 357.9999999999999
+    "x": 60,
+    "y": 172
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -109,6 +109,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 2,
+        "thickness": 2
+      }
+    ],
     "endMarkerType": 0,
     "fills": [
       {

@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EFEEF245-B77D-4183-9E48-34B1CFBBAD8E",
+  "do_objectID": "586D2DC9-F892-4E18-9427-66AE172E8894",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 38.80000000000001,
-    "width": 281,
-    "x": 40,
-    "y": 227
+    "height": 38.48000000000002,
+    "width": 197.52,
+    "x": 82,
+    "y": 342
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,110 +34,98 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "BD1CFE7D-B1A2-45D1-8615-81A18B77222D"
+      "id": "D063E22E-E977-472A-B2AF-4427AA3C35DB"
     },
     {
       "class": "shapePath",
-      "id": "3B8FD916-D1CF-4155-803D-DD4019D4577F"
+      "id": "318577B3-2485-442A-A543-748F2328A926"
     },
     {
       "class": "shapePath",
-      "id": "86077D5C-5657-45B2-8CD0-C55C2B1780E9"
+      "id": "DE66DB16-7056-4A3F-A568-330931A0A9D9"
     },
     {
       "class": "shapePath",
-      "id": "C9F89B64-0A45-4BFB-BB68-E9CB55EA061B"
+      "id": "57801C0E-E05E-44B5-902C-652F2DD72697"
     },
     {
       "class": "shapePath",
-      "id": "FCB3FE21-2E29-408A-B464-3611D0CF1AEB"
+      "id": "0886D0D4-8CF0-4760-9DAD-67AEE31CBD92"
     },
     {
       "class": "shapePath",
-      "id": "A00A7914-4A58-4390-A23B-AFB4922D3E00"
+      "id": "EB22F0A8-25D2-44AD-AF67-73E858B57428"
     },
     {
       "class": "shapePath",
-      "id": "9FEFF193-129F-4E2A-BE9F-B5A71236F2C1"
+      "id": "D23DC79E-04EF-4DD5-9AEF-A336D972F139"
     },
     {
       "class": "shapePath",
-      "id": "25766A5A-BEFB-4DC9-8F48-C4D54BD80D13"
+      "id": "12507145-29AB-4527-BCB0-16E8C1D8AB9A"
     },
     {
       "class": "shapePath",
-      "id": "6A28D552-43F9-43BC-A523-BC08B971152B"
+      "id": "48733B10-9A2F-4712-A83F-A08B7CF250F8"
     },
     {
       "class": "shapePath",
-      "id": "AA4EAEB8-7437-4E2B-8BC7-F9CA80DD6F2B"
+      "id": "E9E78D32-E920-41CC-9EFD-7D2F0338EFBD"
     },
     {
       "class": "shapePath",
-      "id": "7144838A-353E-4810-A456-3BAF6AD484FA"
+      "id": "72C2EDD4-4D98-49C2-AB77-62B1D529BB11"
     },
     {
       "class": "shapePath",
-      "id": "7FED40ED-E4D0-4A94-887D-D731FFFB0156"
+      "id": "697C7295-37A9-47F3-8F8F-0F831E038747"
     },
     {
       "class": "shapePath",
-      "id": "841BE002-4EB0-4268-B657-3B4855A897E3"
+      "id": "96E5AAC0-9AD6-4C81-A225-C99303E9CE24"
     },
     {
       "class": "shapePath",
-      "id": "6737206F-AD77-4332-99A0-0214BA4B78D9"
+      "id": "F1778060-1A64-4684-8CD7-8A20051D3434"
     },
     {
       "class": "shapePath",
-      "id": "050A029D-9F36-4148-A6A0-8978DF925E8C"
+      "id": "2F49B6DC-2308-4D2C-B9DF-2D74B06D2839"
     },
     {
       "class": "shapePath",
-      "id": "41441047-978C-4D8C-9DF9-337A26B7DB5C"
+      "id": "E97A0EFE-031A-4EA5-8633-F8634605AF1A"
     },
     {
       "class": "shapePath",
-      "id": "19FFA8CC-ABE5-4D9D-8997-5E3933D74929"
+      "id": "39B0E24D-E7F6-42ED-B0B2-D0DDC8E07C6B"
     },
     {
       "class": "shapePath",
-      "id": "30C4EE0E-959D-49C9-8613-AD53A635252D"
+      "id": "50968B9A-58AE-45F6-B2B6-FBA0A07EB054"
     },
     {
       "class": "shapePath",
-      "id": "15AA6D30-CC80-466F-B3EC-7AE5F9D049AC"
+      "id": "AC65A43E-A193-4CBA-A54A-EC72507165EF"
     },
     {
       "class": "shapePath",
-      "id": "F28E3D71-FCE0-488D-9402-D5C67C3C0E56"
+      "id": "E15D4A77-6899-40A7-A0B5-3C3DEE422BEA"
     },
     {
       "class": "shapePath",
-      "id": "A48AB4E7-DCB0-44D0-821D-133936B53A6D"
+      "id": "013B9806-4566-4E34-B01C-D36C82AEE2AA"
     },
     {
       "class": "shapePath",
-      "id": "3FFB257A-78F8-49EF-A02C-DFC36B9C0EE0"
+      "id": "CA013882-BA37-4354-A9B8-A3A093CA6A80"
     },
     {
       "class": "shapePath",
-      "id": "B12F695E-0932-4AEA-9506-44D6EA03979D"
-    },
-    {
-      "class": "shapePath",
-      "id": "9CCEB86E-F7E3-46AD-AE94-F7FC411C636F"
-    },
-    {
-      "class": "shapePath",
-      "id": "D3C48CFC-E6D1-4E90-A926-4253AE5BEDC9"
-    },
-    {
-      "class": "shapePath",
-      "id": "F1A38699-46F0-4A6C-B386-3272BC882A2D"
+      "id": "B56AF721-1EDD-4BA7-B5A3-BA13C2A8BC63"
     }
   ],
-  "name": "借传媒改变世界",
+  "name": "善经营管理",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

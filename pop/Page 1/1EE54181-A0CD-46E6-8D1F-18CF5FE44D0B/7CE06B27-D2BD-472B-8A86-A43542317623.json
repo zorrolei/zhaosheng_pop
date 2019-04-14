@@ -1,8 +1,9 @@
 {
-  "_class": "group",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "53222F26-5028-44E8-BC2F-764EFAE9EF2B",
+  "do_objectID": "7CE06B27-D2BD-472B-8A86-A43542317623",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,32 +13,29 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 312,
+    "constrainProportions": true,
+    "height": 401,
     "width": 360,
     "x": 0,
-    "y": 328
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/29d13cd1d38c16578c81c38ece36433a8c6066f5.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "EF38F2FF-8122-4BF6-A5F4-16C2D8F912E3"
-    }
-  ],
-  "name": "cole-keister-291568-unsplash",
+  "layerListExpandedType": 0,
+  "name": "位图",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

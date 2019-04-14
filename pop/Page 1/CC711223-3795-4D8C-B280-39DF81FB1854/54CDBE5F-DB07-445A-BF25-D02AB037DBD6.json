@@ -9,40 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.611764705882353,
-            "green": 0.7372549019607844,
-            "red": 0.788235294117647
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 12
+              "size": 24
             }
           },
-          "kerning": 0.144,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20
+            "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 70,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "官方微信：中传MBA\n电话咨询：010-65758361/85795130\n办公地点：北京市朝阳区中国传媒大学经济与管理学院32号楼111室"
+    "string": "MBA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0950045F-E98A-44EA-9FFE-9D4906334C37",
+  "do_objectID": "54CDBE5F-DB07-445A-BF25-D02AB037DBD6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "816FE180-B72B-4BD9-B9F0-25AAB3187664",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 101,
-    "width": 238,
-    "x": 18,
-    "y": 529
+    "do_objectID": "0AB2C538-F8D9-45CC-A5B0-1754B0E93525",
+    "height": 33,
+    "width": 54,
+    "x": 213,
+    "y": 33
   },
-  "glyphBounds": "{{0, 4}, {231, 72}}",
+  "glyphBounds": "{{1, 7}, {53, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,41 +67,41 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "官方微信：中传MBA 电话咨询：010-",
+  "name": "MBA",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "1B05009B-93AC-4CFD-8D11-E921745796FA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "5B4DFF08-D170-4673-95CD-8F7689E6120B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.611764705882353,
-          "green": 0.7372549019607844,
-          "red": 0.788235294117647
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 12
+            "size": 24
           }
         },
-        "kerning": 0.144,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20
+          "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -109,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }

@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EF38F2FF-8122-4BF6-A5F4-16C2D8F912E3",
-  "edited": true,
+  "do_objectID": "AE9A52B2-1955-44D8-8A98-23C880976B07",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "002FBCE8-AD4C-4428-8A74-4DB331443D66",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,12 +18,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 311.0867538258847,
-    "width": 360.0000000000006,
-    "x": 0,
-    "y": 0.9132461741157272
+    "do_objectID": "64F3E74E-6706-4636-AD52-5F6E2C0E627B",
+    "height": 52,
+    "width": 2,
+    "x": 18,
+    "y": 434
   },
-  "hasClippingMask": true,
+  "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
@@ -31,59 +33,49 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "蒙版",
+  "name": "矩形",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.16284645734867662, 2.2204460492503131e-16}",
+      "curveFrom": "{0, 0}",
       "curveMode": 1,
-      "curveTo": "{0, 2.2204460492503131e-16}",
+      "curveTo": "{0, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 2.2204460492503131e-16}"
+      "point": "{0, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.67048687598465551, 0.22310687791110739}",
+      "curveFrom": "{1, 0}",
       "curveMode": 1,
-      "curveTo": "{0.33715354265132186, 0.22310687791110739}",
+      "curveTo": "{1, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.49999999999999911, 0.22310687791110739}"
+      "point": "{1, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.99999999999999822, 2.2204460492503131e-16}",
+      "curveFrom": "{1, 1}",
       "curveMode": 1,
-      "curveTo": "{0.82951312401534183, 2.2204460492503131e-16}",
+      "curveTo": "{1, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.99999999999999822, 2.2204460492503131e-16}"
+      "point": "{1, 1}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1.0000000000000004, 0.99999999999999845}",
+      "curveFrom": "{0, 1}",
       "curveMode": 1,
-      "curveTo": "{1.0000000000000004, 0.99999999999999845}",
+      "curveTo": "{0, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.0000000000000004, 0.99999999999999845}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 0.99999999999999845}",
-      "curveMode": 1,
-      "curveTo": "{0, 0.99999999999999845}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0.99999999999999845}"
+      "point": "{0, 1}"
     }
   ],
   "resizingConstraint": 63,
@@ -98,16 +90,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.611764705882353,
-          "green": 0.7372549019607844,
-          "red": 0.788235294117647
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
-        "position": 2,
-        "thickness": 6
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
       }
     ],
+    "do_objectID": "CE15D063-CB10-42CE-8CFF-02E20C7D3845",
     "endMarkerType": 0,
     "fills": [
       {
@@ -115,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.203921568627451,
-          "green": 0.1254901960784314,
-          "red": 0.1333333333333333
+          "blue": 0.3843137254901961,
+          "green": 0.5333333333333333,
+          "red": 0.6392156862745098
         },
         "fillType": 0,
         "isEnabled": true,
